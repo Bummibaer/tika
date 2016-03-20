@@ -1,0 +1,2574 @@
+<MIFFile 5.50> # Erstellt von FrameMaker xm5.5.3L15a
+# Options:
+#    Paragraph Text
+#    Paragraph Tags
+#    Paragraph Formats
+#    Font Information
+#    Markers
+#    Anchored Frames
+#    Tables
+#    Graphics and TextRect Layout
+#    Master Page Items
+#    Condition Catalog
+#    Table Catalogs
+#    Font Catalog
+#    Paragraph Catalog
+#    Document Template
+#    Document Dictionary
+#    Variables
+#
+<Units Ucm>
+<CharUnits CUpt>
+<ColorCatalog 
+ <Color 
+  <ColorTag `Schwarz'>
+  <ColorCyan  0.000000>
+  <ColorMagenta  0.000000>
+  <ColorYellow  0.000000>
+  <ColorBlack  100.000000>
+  <ColorAttribute ColorIsBlack>
+  <ColorAttribute ColorIsReserved>
+ > # end of Color
+ <Color 
+  <ColorTag `Wei\xa7 '>
+  <ColorCyan  0.000000>
+  <ColorMagenta  0.000000>
+  <ColorYellow  0.000000>
+  <ColorBlack  0.000000>
+  <ColorAttribute ColorIsWhite>
+  <ColorAttribute ColorIsReserved>
+ > # end of Color
+ <Color 
+  <ColorTag `Rot'>
+  <ColorCyan  0.000000>
+  <ColorMagenta  100.000000>
+  <ColorYellow  100.000000>
+  <ColorBlack  0.000000>
+  <ColorAttribute ColorIsRed>
+  <ColorAttribute ColorIsReserved>
+ > # end of Color
+ <Color 
+  <ColorTag `Gr\x9f n'>
+  <ColorCyan  100.000000>
+  <ColorMagenta  0.000000>
+  <ColorYellow  100.000000>
+  <ColorBlack  0.000000>
+  <ColorAttribute ColorIsGreen>
+  <ColorAttribute ColorIsReserved>
+ > # end of Color
+ <Color 
+  <ColorTag `Blau'>
+  <ColorCyan  100.000000>
+  <ColorMagenta  100.000000>
+  <ColorYellow  0.000000>
+  <ColorBlack  0.000000>
+  <ColorAttribute ColorIsBlue>
+  <ColorAttribute ColorIsReserved>
+ > # end of Color
+ <Color 
+  <ColorTag `Cyan'>
+  <ColorCyan  100.000000>
+  <ColorMagenta  0.000000>
+  <ColorYellow  0.000000>
+  <ColorBlack  0.000000>
+  <ColorAttribute ColorIsCyan>
+  <ColorAttribute ColorIsReserved>
+ > # end of Color
+ <Color 
+  <ColorTag `Magenta'>
+  <ColorCyan  0.000000>
+  <ColorMagenta  100.000000>
+  <ColorYellow  0.000000>
+  <ColorBlack  0.000000>
+  <ColorAttribute ColorIsMagenta>
+  <ColorAttribute ColorIsReserved>
+ > # end of Color
+ <Color 
+  <ColorTag `Gelb'>
+  <ColorCyan  0.000000>
+  <ColorMagenta  0.000000>
+  <ColorYellow  100.000000>
+  <ColorBlack  0.000000>
+  <ColorAttribute ColorIsYellow>
+  <ColorAttribute ColorIsReserved>
+ > # end of Color
+> # end of ColorCatalog
+<ConditionCatalog 
+ <Condition 
+  <CTag `Kommentar'>
+  <CState CShown>
+  <CStyle CUnderline>
+  <CSeparation 2>
+  <CColor `Rot'>
+ > # end of Condition
+> # end of ConditionCatalog
+<CombinedFontCatalog 
+> # end of CombinedFontCatalog
+<PgfCatalog 
+ <Pgf 
+  <PgfTag `Anh_\x86 1IVZ'>
+  <PgfUseNextTag No>
+  <PgfNextTag `'>
+  <PgfAlignment Left>
+  <PgfFIndent  0.0 cm>
+  <PgfLIndent  0.0 cm>
+  <PgfRIndent  0.0 cm>
+  <PgfFIndentRelative No>
+  <PgfFIndentOffset  0.0 cm>
+  <PgfTopSeparator `'>
+  <PgfTopSepAtIndent No>
+  <PgfTopSepOffset  0.0 cm>
+  <PgfBotSeparator `'>
+  <PgfBotSepAtIndent No>
+  <PgfBotSepOffset  0.0 cm>
+  <PgfPlacement Anywhere>
+  <PgfPlacementStyle Normal>
+  <PgfRunInDefaultPunct `. '>
+  <PgfSpBefore  0.0 pt>
+  <PgfSpAfter  0.0 pt>
+  <PgfWithPrev No>
+  <PgfWithNext No>
+  <PgfBlockSize 1>
+  <PgfFont 
+   <FTag `'>
+   <FFamily `Times'>
+   <FVar `Regular'>
+   <FWeight `Regular'>
+   <FAngle `Regular'>
+   <FPostScriptName `Times-Roman'>
+   <FEncoding `FrameRoman'>
+   <FSize  12.0 pt>
+   <FUnderlining FNoUnderlining>
+   <FOverline No>
+   <FStrike No>
+   <FChangeBar No>
+   <FOutline No>
+   <FShadow No>
+   <FPairKern No>
+   <FTsume No>
+   <FCase FAsTyped>
+   <FPosition FNormal>
+   <FDX  0.0%>
+   <FDY  0.0%>
+   <FDW  0.0%>
+   <FStretch  100.0%>
+   <FLanguage German>
+   <FLocked No>
+   <FSeparation 0>
+   <FColor `Schwarz'>
+  > # end of PgfFont
+  <PgfLineSpacing Fixed>
+  <PgfLeading  2.0 pt>
+  <PgfAutoNum No>
+  <PgfNumTabs 0>
+  <PgfHyphenate Yes>
+  <HyphenMaxLines 2>
+  <HyphenMinPrefix 2>
+  <HyphenMinSuffix 2>
+  <HyphenMinWord 5>
+  <PgfLetterSpace No>
+  <PgfMinWordSpace 75>
+  <PgfOptWordSpace 100>
+  <PgfMaxWordSpace 125>
+  <PgfMinJRomanLetterSpace 0>
+  <PgfOptJRomanLetterSpace 25>
+  <PgfMaxJRomanLetterSpace 50>
+  <PgfMinJLetterSpace 0>
+  <PgfOptJLetterSpace 0>
+  <PgfMaxJLetterSpace 10>
+  <PgfYakumonoType Floating>
+  <PgfLanguage German>
+  <PgfCellAlignment Top>
+  <PgfCellMargins  0.0 pt 0.0 pt 0.0 pt 0.0 pt>
+  <PgfCellLMarginFixed No>
+  <PgfCellTMarginFixed No>
+  <PgfCellRMarginFixed No>
+  <PgfCellBMarginFixed No>
+  <PgfLocked No>
+ > # end of Pgf
+ <Pgf 
+  <PgfTag `Anh_\x86 1IVZIVZ'>
+  <PgfUseNextTag No>
+  <PgfNextTag `'>
+  <PgfAlignment Left>
+  <PgfFIndent  0.0 cm>
+  <PgfLIndent  0.0 cm>
+  <PgfRIndent  0.0 cm>
+  <PgfFIndentRelative No>
+  <PgfFIndentOffset  0.0 cm>
+  <PgfTopSeparator `'>
+  <PgfTopSepAtIndent No>
+  <PgfTopSepOffset  0.0 cm>
+  <PgfBotSeparator `'>
+  <PgfBotSepAtIndent No>
+  <PgfBotSepOffset  0.0 cm>
+  <PgfPlacement Anywhere>
+  <PgfPlacementStyle Normal>
+  <PgfRunInDefaultPunct `. '>
+  <PgfSpBefore  0.0 pt>
+  <PgfSpAfter  0.0 pt>
+  <PgfWithPrev No>
+  <PgfWithNext No>
+  <PgfBlockSize 1>
+  <PgfFont 
+   <FTag `'>
+   <FFamily `Times'>
+   <FVar `Regular'>
+   <FWeight `Regular'>
+   <FAngle `Regular'>
+   <FPostScriptName `Times-Roman'>
+   <FEncoding `FrameRoman'>
+   <FSize  12.0 pt>
+   <FUnderlining FNoUnderlining>
+   <FOverline No>
+   <FStrike No>
+   <FChangeBar No>
+   <FOutline No>
+   <FShadow No>
+   <FPairKern No>
+   <FTsume No>
+   <FCase FAsTyped>
+   <FPosition FNormal>
+   <FDX  0.0%>
+   <FDY  0.0%>
+   <FDW  0.0%>
+   <FStretch  100.0%>
+   <FLanguage German>
+   <FLocked No>
+   <FSeparation 0>
+   <FColor `Schwarz'>
+  > # end of PgfFont
+  <PgfLineSpacing Fixed>
+  <PgfLeading  2.0 pt>
+  <PgfAutoNum No>
+  <PgfNumTabs 0>
+  <PgfHyphenate Yes>
+  <HyphenMaxLines 2>
+  <HyphenMinPrefix 2>
+  <HyphenMinSuffix 2>
+  <HyphenMinWord 5>
+  <PgfLetterSpace No>
+  <PgfMinWordSpace 75>
+  <PgfOptWordSpace 100>
+  <PgfMaxWordSpace 125>
+  <PgfMinJRomanLetterSpace 0>
+  <PgfOptJRomanLetterSpace 25>
+  <PgfMaxJRomanLetterSpace 50>
+  <PgfMinJLetterSpace 0>
+  <PgfOptJLetterSpace 0>
+  <PgfMaxJLetterSpace 10>
+  <PgfYakumonoType Floating>
+  <PgfLanguage German>
+  <PgfCellAlignment Top>
+  <PgfCellMargins  0.0 pt 0.0 pt 0.0 pt 0.0 pt>
+  <PgfCellLMarginFixed No>
+  <PgfCellTMarginFixed No>
+  <PgfCellRMarginFixed No>
+  <PgfCellBMarginFixed No>
+  <PgfLocked No>
+ > # end of Pgf
+ <Pgf 
+  <PgfTag `Anh_\x86 IVZ'>
+  <PgfUseNextTag No>
+  <PgfNextTag `'>
+  <PgfAlignment Left>
+  <PgfFIndent  0.0 cm>
+  <PgfLIndent  0.0 cm>
+  <PgfRIndent  0.0 cm>
+  <PgfFIndentRelative No>
+  <PgfFIndentOffset  0.0 cm>
+  <PgfTopSeparator `'>
+  <PgfTopSepAtIndent No>
+  <PgfTopSepOffset  0.0 cm>
+  <PgfBotSeparator `'>
+  <PgfBotSepAtIndent No>
+  <PgfBotSepOffset  0.0 cm>
+  <PgfPlacement Anywhere>
+  <PgfPlacementStyle Normal>
+  <PgfRunInDefaultPunct `. '>
+  <PgfSpBefore  0.0 pt>
+  <PgfSpAfter  0.0 pt>
+  <PgfWithPrev No>
+  <PgfWithNext No>
+  <PgfBlockSize 1>
+  <PgfFont 
+   <FTag `'>
+   <FFamily `Times'>
+   <FVar `Regular'>
+   <FWeight `Regular'>
+   <FAngle `Regular'>
+   <FPostScriptName `Times-Roman'>
+   <FEncoding `FrameRoman'>
+   <FSize  12.0 pt>
+   <FUnderlining FNoUnderlining>
+   <FOverline No>
+   <FStrike No>
+   <FChangeBar No>
+   <FOutline No>
+   <FShadow No>
+   <FPairKern No>
+   <FTsume No>
+   <FCase FAsTyped>
+   <FPosition FNormal>
+   <FDX  0.0%>
+   <FDY  0.0%>
+   <FDW  0.0%>
+   <FStretch  100.0%>
+   <FLanguage German>
+   <FLocked No>
+   <FSeparation 0>
+   <FColor `Schwarz'>
+  > # end of PgfFont
+  <PgfLineSpacing Fixed>
+  <PgfLeading  2.0 pt>
+  <PgfAutoNum No>
+  <PgfNumTabs 0>
+  <PgfHyphenate Yes>
+  <HyphenMaxLines 2>
+  <HyphenMinPrefix 2>
+  <HyphenMinSuffix 2>
+  <HyphenMinWord 5>
+  <PgfLetterSpace No>
+  <PgfMinWordSpace 75>
+  <PgfOptWordSpace 100>
+  <PgfMaxWordSpace 125>
+  <PgfMinJRomanLetterSpace 0>
+  <PgfOptJRomanLetterSpace 25>
+  <PgfMaxJRomanLetterSpace 50>
+  <PgfMinJLetterSpace 0>
+  <PgfOptJLetterSpace 0>
+  <PgfMaxJLetterSpace 10>
+  <PgfYakumonoType Floating>
+  <PgfLanguage German>
+  <PgfCellAlignment Top>
+  <PgfCellMargins  0.0 pt 0.0 pt 0.0 pt 0.0 pt>
+  <PgfCellLMarginFixed No>
+  <PgfCellTMarginFixed No>
+  <PgfCellRMarginFixed No>
+  <PgfCellBMarginFixed No>
+  <PgfLocked No>
+ > # end of Pgf
+ <Pgf 
+  <PgfTag `Anh_\x86 IVZIVZ'>
+  <PgfUseNextTag No>
+  <PgfNextTag `'>
+  <PgfAlignment Left>
+  <PgfFIndent  0.0 cm>
+  <PgfLIndent  0.0 cm>
+  <PgfRIndent  0.0 cm>
+  <PgfFIndentRelative No>
+  <PgfFIndentOffset  0.0 cm>
+  <PgfTopSeparator `'>
+  <PgfTopSepAtIndent No>
+  <PgfTopSepOffset  0.0 cm>
+  <PgfBotSeparator `'>
+  <PgfBotSepAtIndent No>
+  <PgfBotSepOffset  0.0 cm>
+  <PgfPlacement Anywhere>
+  <PgfPlacementStyle Normal>
+  <PgfRunInDefaultPunct `. '>
+  <PgfSpBefore  0.0 pt>
+  <PgfSpAfter  0.0 pt>
+  <PgfWithPrev No>
+  <PgfWithNext No>
+  <PgfBlockSize 1>
+  <PgfFont 
+   <FTag `'>
+   <FFamily `Times'>
+   <FVar `Regular'>
+   <FWeight `Regular'>
+   <FAngle `Regular'>
+   <FPostScriptName `Times-Roman'>
+   <FEncoding `FrameRoman'>
+   <FSize  12.0 pt>
+   <FUnderlining FNoUnderlining>
+   <FOverline No>
+   <FStrike No>
+   <FChangeBar No>
+   <FOutline No>
+   <FShadow No>
+   <FPairKern No>
+   <FTsume No>
+   <FCase FAsTyped>
+   <FPosition FNormal>
+   <FDX  0.0%>
+   <FDY  0.0%>
+   <FDW  0.0%>
+   <FStretch  100.0%>
+   <FLanguage German>
+   <FLocked No>
+   <FSeparation 0>
+   <FColor `Schwarz'>
+  > # end of PgfFont
+  <PgfLineSpacing Fixed>
+  <PgfLeading  2.0 pt>
+  <PgfAutoNum No>
+  <PgfNumTabs 0>
+  <PgfHyphenate Yes>
+  <HyphenMaxLines 2>
+  <HyphenMinPrefix 2>
+  <HyphenMinSuffix 2>
+  <HyphenMinWord 5>
+  <PgfLetterSpace No>
+  <PgfMinWordSpace 75>
+  <PgfOptWordSpace 100>
+  <PgfMaxWordSpace 125>
+  <PgfMinJRomanLetterSpace 0>
+  <PgfOptJRomanLetterSpace 25>
+  <PgfMaxJRomanLetterSpace 50>
+  <PgfMinJLetterSpace 0>
+  <PgfOptJLetterSpace 0>
+  <PgfMaxJLetterSpace 10>
+  <PgfYakumonoType Floating>
+  <PgfLanguage German>
+  <PgfCellAlignment Top>
+  <PgfCellMargins  0.0 pt 0.0 pt 0.0 pt 0.0 pt>
+  <PgfCellLMarginFixed No>
+  <PgfCellTMarginFixed No>
+  <PgfCellRMarginFixed No>
+  <PgfCellBMarginFixed No>
+  <PgfLocked No>
+ > # end of Pgf
+ <Pgf 
+  <PgfTag `Fu\xa7 note'>
+  <PgfUseNextTag No>
+  <PgfNextTag `'>
+  <PgfAlignment Left>
+  <PgfFIndent  0.635 cm>
+  <PgfLIndent  0.635 cm>
+  <PgfRIndent  0.635 cm>
+  <PgfFIndentRelative No>
+  <PgfFIndentOffset  0.0 cm>
+  <PgfTopSeparator `'>
+  <PgfTopSepAtIndent No>
+  <PgfTopSepOffset  0.0 cm>
+  <PgfBotSeparator `'>
+  <PgfBotSepAtIndent No>
+  <PgfBotSepOffset  0.0 cm>
+  <PgfPlacement Anywhere>
+  <PgfPlacementStyle Normal>
+  <PgfRunInDefaultPunct `. '>
+  <PgfSpBefore  0.0 pt>
+  <PgfSpAfter  0.0 pt>
+  <PgfWithPrev No>
+  <PgfWithNext No>
+  <PgfBlockSize 1>
+  <PgfFont 
+   <FTag `'>
+   <FFamily `Times'>
+   <FVar `Regular'>
+   <FWeight `Regular'>
+   <FAngle `Regular'>
+   <FPostScriptName `Times-Roman'>
+   <FEncoding `FrameRoman'>
+   <FSize  10.0 pt>
+   <FUnderlining FNoUnderlining>
+   <FOverline No>
+   <FStrike No>
+   <FChangeBar No>
+   <FOutline No>
+   <FShadow No>
+   <FPairKern Yes>
+   <FTsume No>
+   <FCase FAsTyped>
+   <FPosition FNormal>
+   <FDX  0.0%>
+   <FDY  0.0%>
+   <FDW  0.0%>
+   <FStretch  100.0%>
+   <FLanguage German>
+   <FLocked No>
+   <FSeparation 0>
+   <FColor `Schwarz'>
+  > # end of PgfFont
+  <PgfLineSpacing Fixed>
+  <PgfLeading  2.0 pt>
+  <PgfAutoNum No>
+  <PgfNumTabs 0>
+  <PgfHyphenate Yes>
+  <HyphenMaxLines 2>
+  <HyphenMinPrefix 3>
+  <HyphenMinSuffix 3>
+  <HyphenMinWord 5>
+  <PgfLetterSpace No>
+  <PgfMinWordSpace 90>
+  <PgfOptWordSpace 100>
+  <PgfMaxWordSpace 110>
+  <PgfMinJRomanLetterSpace 0>
+  <PgfOptJRomanLetterSpace 25>
+  <PgfMaxJRomanLetterSpace 50>
+  <PgfMinJLetterSpace 0>
+  <PgfOptJLetterSpace 0>
+  <PgfMaxJLetterSpace 10>
+  <PgfYakumonoType Floating>
+  <PgfLanguage German>
+  <PgfCellAlignment Top>
+  <PgfCellMargins  0.0 pt 0.0 pt 0.0 pt 0.0 pt>
+  <PgfCellLMarginFixed No>
+  <PgfCellTMarginFixed No>
+  <PgfCellRMarginFixed No>
+  <PgfCellBMarginFixed No>
+  <PgfLocked No>
+ > # end of Pgf
+ <Pgf 
+  <PgfTag `Haupttext'>
+  <PgfUseNextTag No>
+  <PgfNextTag `'>
+  <PgfAlignment Left>
+  <PgfFIndent  0.0 cm>
+  <PgfLIndent  0.0 cm>
+  <PgfRIndent  0.0 cm>
+  <PgfFIndentRelative No>
+  <PgfFIndentOffset  0.0 cm>
+  <PgfTopSeparator `'>
+  <PgfTopSepAtIndent No>
+  <PgfTopSepOffset  0.0 cm>
+  <PgfBotSeparator `'>
+  <PgfBotSepAtIndent No>
+  <PgfBotSepOffset  0.0 cm>
+  <PgfPlacement Anywhere>
+  <PgfPlacementStyle Normal>
+  <PgfRunInDefaultPunct `. '>
+  <PgfSpBefore  0.0 pt>
+  <PgfSpAfter  0.0 pt>
+  <PgfWithPrev No>
+  <PgfWithNext No>
+  <PgfBlockSize 1>
+  <PgfFont 
+   <FTag `'>
+   <FFamily `Helvetica'>
+   <FVar `Regular'>
+   <FWeight `Regular'>
+   <FAngle `Regular'>
+   <FPostScriptName `Helvetica'>
+   <FEncoding `FrameRoman'>
+   <FSize  10.0 pt>
+   <FUnderlining FNoUnderlining>
+   <FOverline No>
+   <FStrike No>
+   <FChangeBar No>
+   <FOutline No>
+   <FShadow No>
+   <FPairKern Yes>
+   <FTsume No>
+   <FCase FAsTyped>
+   <FPosition FNormal>
+   <FDX  0.0%>
+   <FDY  0.0%>
+   <FDW  0.0%>
+   <FStretch  100.0%>
+   <FLanguage German>
+   <FLocked No>
+   <FSeparation 0>
+   <FColor `Schwarz'>
+  > # end of PgfFont
+  <PgfLineSpacing Fixed>
+  <PgfLeading  2.0 pt>
+  <PgfAutoNum No>
+  <PgfNumTabs 0>
+  <PgfHyphenate Yes>
+  <HyphenMaxLines 2>
+  <HyphenMinPrefix 3>
+  <HyphenMinSuffix 3>
+  <HyphenMinWord 5>
+  <PgfLetterSpace No>
+  <PgfMinWordSpace 90>
+  <PgfOptWordSpace 100>
+  <PgfMaxWordSpace 110>
+  <PgfMinJRomanLetterSpace 0>
+  <PgfOptJRomanLetterSpace 25>
+  <PgfMaxJRomanLetterSpace 50>
+  <PgfMinJLetterSpace 0>
+  <PgfOptJLetterSpace 0>
+  <PgfMaxJLetterSpace 10>
+  <PgfYakumonoType Floating>
+  <PgfLanguage German>
+  <PgfCellAlignment Top>
+  <PgfCellMargins  0.0 pt 0.0 pt 0.0 pt 0.0 pt>
+  <PgfCellLMarginFixed No>
+  <PgfCellTMarginFixed No>
+  <PgfCellRMarginFixed No>
+  <PgfCellBMarginFixed No>
+  <PgfLocked No>
+ > # end of Pgf
+ <Pgf 
+  <PgfTag `Kopfzelle'>
+  <PgfUseNextTag No>
+  <PgfNextTag `'>
+  <PgfAlignment Center>
+  <PgfFIndent  0.0 cm>
+  <PgfLIndent  0.0 cm>
+  <PgfRIndent  0.0 cm>
+  <PgfFIndentRelative No>
+  <PgfFIndentOffset  0.0 cm>
+  <PgfTopSeparator `'>
+  <PgfTopSepAtIndent No>
+  <PgfTopSepOffset  0.0 cm>
+  <PgfBotSeparator `'>
+  <PgfBotSepAtIndent No>
+  <PgfBotSepOffset  0.0 cm>
+  <PgfPlacement Anywhere>
+  <PgfPlacementStyle Normal>
+  <PgfRunInDefaultPunct `. '>
+  <PgfSpBefore  0.0 pt>
+  <PgfSpAfter  0.0 pt>
+  <PgfWithPrev No>
+  <PgfWithNext No>
+  <PgfBlockSize 1>
+  <PgfFont 
+   <FTag `'>
+   <FFamily `Times'>
+   <FVar `Regular'>
+   <FWeight `Regular'>
+   <FAngle `Regular'>
+   <FPostScriptName `Times-Roman'>
+   <FEncoding `FrameRoman'>
+   <FSize  12.0 pt>
+   <FUnderlining FNoUnderlining>
+   <FOverline No>
+   <FStrike No>
+   <FChangeBar No>
+   <FOutline No>
+   <FShadow No>
+   <FPairKern Yes>
+   <FTsume No>
+   <FCase FAsTyped>
+   <FPosition FNormal>
+   <FDX  0.0%>
+   <FDY  0.0%>
+   <FDW  0.0%>
+   <FStretch  100.0%>
+   <FLanguage German>
+   <FLocked No>
+   <FSeparation 0>
+   <FColor `Schwarz'>
+  > # end of PgfFont
+  <PgfLineSpacing Fixed>
+  <PgfLeading  2.0 pt>
+  <PgfAutoNum No>
+  <PgfNumTabs 0>
+  <PgfHyphenate No>
+  <HyphenMaxLines 2>
+  <HyphenMinPrefix 3>
+  <HyphenMinSuffix 3>
+  <HyphenMinWord 5>
+  <PgfLetterSpace No>
+  <PgfMinWordSpace 90>
+  <PgfOptWordSpace 100>
+  <PgfMaxWordSpace 110>
+  <PgfMinJRomanLetterSpace 0>
+  <PgfOptJRomanLetterSpace 25>
+  <PgfMaxJRomanLetterSpace 50>
+  <PgfMinJLetterSpace 0>
+  <PgfOptJLetterSpace 0>
+  <PgfMaxJLetterSpace 10>
+  <PgfYakumonoType Floating>
+  <PgfLanguage German>
+  <PgfCellAlignment Middle>
+  <PgfCellMargins  0.0 pt 2.0 pt 0.0 pt 2.0 pt>
+  <PgfCellLMarginFixed No>
+  <PgfCellTMarginFixed No>
+  <PgfCellRMarginFixed No>
+  <PgfCellBMarginFixed No>
+  <PgfLocked No>
+ > # end of Pgf
+ <Pgf 
+  <PgfTag `Standardzelle'>
+  <PgfUseNextTag No>
+  <PgfNextTag `'>
+  <PgfAlignment Left>
+  <PgfFIndent  0.0 cm>
+  <PgfLIndent  0.0 cm>
+  <PgfRIndent  0.0 cm>
+  <PgfFIndentRelative No>
+  <PgfFIndentOffset  0.0 cm>
+  <PgfTopSeparator `'>
+  <PgfTopSepAtIndent No>
+  <PgfTopSepOffset  0.0 cm>
+  <PgfBotSeparator `'>
+  <PgfBotSepAtIndent No>
+  <PgfBotSepOffset  0.0 cm>
+  <PgfPlacement Anywhere>
+  <PgfPlacementStyle Normal>
+  <PgfRunInDefaultPunct `. '>
+  <PgfSpBefore  0.0 pt>
+  <PgfSpAfter  0.0 pt>
+  <PgfWithPrev No>
+  <PgfWithNext No>
+  <PgfBlockSize 1>
+  <PgfFont 
+   <FTag `'>
+   <FFamily `Times'>
+   <FVar `Regular'>
+   <FWeight `Regular'>
+   <FAngle `Regular'>
+   <FPostScriptName `Times-Roman'>
+   <FEncoding `FrameRoman'>
+   <FSize  12.0 pt>
+   <FUnderlining FNoUnderlining>
+   <FOverline No>
+   <FStrike No>
+   <FChangeBar No>
+   <FOutline No>
+   <FShadow No>
+   <FPairKern Yes>
+   <FTsume No>
+   <FCase FAsTyped>
+   <FPosition FNormal>
+   <FDX  0.0%>
+   <FDY  0.0%>
+   <FDW  0.0%>
+   <FStretch  100.0%>
+   <FLanguage German>
+   <FLocked No>
+   <FSeparation 0>
+   <FColor `Schwarz'>
+  > # end of PgfFont
+  <PgfLineSpacing Fixed>
+  <PgfLeading  2.0 pt>
+  <PgfAutoNum No>
+  <PgfNumTabs 0>
+  <PgfHyphenate Yes>
+  <HyphenMaxLines 2>
+  <HyphenMinPrefix 3>
+  <HyphenMinSuffix 3>
+  <HyphenMinWord 5>
+  <PgfLetterSpace No>
+  <PgfMinWordSpace 90>
+  <PgfOptWordSpace 100>
+  <PgfMaxWordSpace 110>
+  <PgfMinJRomanLetterSpace 0>
+  <PgfOptJRomanLetterSpace 25>
+  <PgfMaxJRomanLetterSpace 50>
+  <PgfMinJLetterSpace 0>
+  <PgfOptJLetterSpace 0>
+  <PgfMaxJLetterSpace 10>
+  <PgfYakumonoType Floating>
+  <PgfLanguage German>
+  <PgfCellAlignment Top>
+  <PgfCellMargins  0.0 pt 0.0 pt 0.0 pt 0.0 pt>
+  <PgfCellLMarginFixed No>
+  <PgfCellTMarginFixed No>
+  <PgfCellRMarginFixed No>
+  <PgfCellBMarginFixed No>
+  <PgfLocked No>
+ > # end of Pgf
+ <Pgf 
+  <PgfTag `TabelleFu\xa7 note'>
+  <PgfUseNextTag No>
+  <PgfNextTag `'>
+  <PgfAlignment Left>
+  <PgfFIndent  0.635 cm>
+  <PgfLIndent  0.635 cm>
+  <PgfRIndent  0.635 cm>
+  <PgfFIndentRelative No>
+  <PgfFIndentOffset  0.0 cm>
+  <PgfTopSeparator `'>
+  <PgfTopSepAtIndent No>
+  <PgfTopSepOffset  0.0 cm>
+  <PgfBotSeparator `'>
+  <PgfBotSepAtIndent No>
+  <PgfBotSepOffset  0.0 cm>
+  <PgfPlacement Anywhere>
+  <PgfPlacementStyle Normal>
+  <PgfRunInDefaultPunct `. '>
+  <PgfSpBefore  0.0 pt>
+  <PgfSpAfter  0.0 pt>
+  <PgfWithPrev No>
+  <PgfWithNext No>
+  <PgfBlockSize 1>
+  <PgfFont 
+   <FTag `'>
+   <FFamily `Times'>
+   <FVar `Regular'>
+   <FWeight `Regular'>
+   <FAngle `Regular'>
+   <FPostScriptName `Times-Roman'>
+   <FEncoding `FrameRoman'>
+   <FSize  10.0 pt>
+   <FUnderlining FNoUnderlining>
+   <FOverline No>
+   <FStrike No>
+   <FChangeBar No>
+   <FOutline No>
+   <FShadow No>
+   <FPairKern Yes>
+   <FTsume No>
+   <FCase FAsTyped>
+   <FPosition FNormal>
+   <FDX  0.0%>
+   <FDY  0.0%>
+   <FDW  0.0%>
+   <FStretch  100.0%>
+   <FLanguage German>
+   <FLocked No>
+   <FSeparation 0>
+   <FColor `Schwarz'>
+  > # end of PgfFont
+  <PgfLineSpacing Fixed>
+  <PgfLeading  2.0 pt>
+  <PgfAutoNum No>
+  <PgfNumTabs 0>
+  <PgfHyphenate Yes>
+  <HyphenMaxLines 2>
+  <HyphenMinPrefix 3>
+  <HyphenMinSuffix 3>
+  <HyphenMinWord 5>
+  <PgfLetterSpace No>
+  <PgfMinWordSpace 90>
+  <PgfOptWordSpace 100>
+  <PgfMaxWordSpace 110>
+  <PgfMinJRomanLetterSpace 0>
+  <PgfOptJRomanLetterSpace 25>
+  <PgfMaxJRomanLetterSpace 50>
+  <PgfMinJLetterSpace 0>
+  <PgfOptJLetterSpace 0>
+  <PgfMaxJLetterSpace 10>
+  <PgfYakumonoType Floating>
+  <PgfLanguage German>
+  <PgfCellAlignment Top>
+  <PgfCellMargins  0.0 pt 0.0 pt 0.0 pt 0.0 pt>
+  <PgfCellLMarginFixed No>
+  <PgfCellTMarginFixed No>
+  <PgfCellRMarginFixed No>
+  <PgfCellBMarginFixed No>
+  <PgfLocked No>
+ > # end of Pgf
+ <Pgf 
+  <PgfTag `TabelleTitel'>
+  <PgfUseNextTag No>
+  <PgfNextTag `'>
+  <PgfAlignment Center>
+  <PgfFIndent  0.0 cm>
+  <PgfLIndent  0.0 cm>
+  <PgfRIndent  0.0 cm>
+  <PgfFIndentRelative No>
+  <PgfFIndentOffset  0.0 cm>
+  <PgfTopSeparator `'>
+  <PgfTopSepAtIndent No>
+  <PgfTopSepOffset  0.0 cm>
+  <PgfBotSeparator `'>
+  <PgfBotSepAtIndent No>
+  <PgfBotSepOffset  0.0 cm>
+  <PgfPlacement Anywhere>
+  <PgfPlacementStyle Normal>
+  <PgfRunInDefaultPunct `. '>
+  <PgfSpBefore  0.0 pt>
+  <PgfSpAfter  0.0 pt>
+  <PgfWithPrev No>
+  <PgfWithNext No>
+  <PgfBlockSize 1>
+  <PgfFont 
+   <FTag `'>
+   <FFamily `Times'>
+   <FVar `Regular'>
+   <FWeight `Bold'>
+   <FAngle `Regular'>
+   <FPostScriptName `Times-Bold'>
+   <FEncoding `FrameRoman'>
+   <FSize  12.0 pt>
+   <FUnderlining FNoUnderlining>
+   <FOverline No>
+   <FStrike No>
+   <FChangeBar No>
+   <FOutline No>
+   <FShadow No>
+   <FPairKern Yes>
+   <FTsume No>
+   <FCase FAsTyped>
+   <FPosition FNormal>
+   <FDX  0.0%>
+   <FDY  0.0%>
+   <FDW  0.0%>
+   <FStretch  100.0%>
+   <FLanguage German>
+   <FLocked No>
+   <FSeparation 0>
+   <FColor `Schwarz'>
+  > # end of PgfFont
+  <PgfLineSpacing Fixed>
+  <PgfLeading  2.0 pt>
+  <PgfAutoNum Yes>
+  <PgfNumFormat `T:Tabelle <n+\>:\x11 '>
+  <PgfNumberFont `'>
+  <PgfNumAtEnd No>
+  <PgfNumTabs 0>
+  <PgfHyphenate No>
+  <HyphenMaxLines 2>
+  <HyphenMinPrefix 3>
+  <HyphenMinSuffix 3>
+  <HyphenMinWord 5>
+  <PgfLetterSpace No>
+  <PgfMinWordSpace 90>
+  <PgfOptWordSpace 100>
+  <PgfMaxWordSpace 110>
+  <PgfMinJRomanLetterSpace 0>
+  <PgfOptJRomanLetterSpace 25>
+  <PgfMaxJRomanLetterSpace 50>
+  <PgfMinJLetterSpace 0>
+  <PgfOptJLetterSpace 0>
+  <PgfMaxJLetterSpace 10>
+  <PgfYakumonoType Floating>
+  <PgfLanguage German>
+  <PgfCellAlignment Top>
+  <PgfCellMargins  0.0 pt 0.0 pt 0.0 pt 0.0 pt>
+  <PgfCellLMarginFixed No>
+  <PgfCellTMarginFixed No>
+  <PgfCellRMarginFixed No>
+  <PgfCellBMarginFixed No>
+  <PgfLocked No>
+ > # end of Pgf
+ <Pgf 
+  <PgfTag `Titel'>
+  <PgfUseNextTag Yes>
+  <PgfNextTag `Haupttext'>
+  <PgfAlignment Center>
+  <PgfFIndent  0.0 cm>
+  <PgfLIndent  0.0 cm>
+  <PgfRIndent  0.0 cm>
+  <PgfFIndentRelative No>
+  <PgfFIndentOffset  0.0 cm>
+  <PgfTopSeparator `'>
+  <PgfTopSepAtIndent No>
+  <PgfTopSepOffset  0.0 cm>
+  <PgfBotSeparator `'>
+  <PgfBotSepAtIndent No>
+  <PgfBotSepOffset  0.0 cm>
+  <PgfPlacement Anywhere>
+  <PgfPlacementStyle Normal>
+  <PgfRunInDefaultPunct `. '>
+  <PgfSpBefore  0.0 pt>
+  <PgfSpAfter  12.0 pt>
+  <PgfWithPrev No>
+  <PgfWithNext Yes>
+  <PgfBlockSize 1>
+  <PgfFont 
+   <FTag `'>
+   <FFamily `Times'>
+   <FVar `Regular'>
+   <FWeight `Bold'>
+   <FAngle `Regular'>
+   <FPostScriptName `Times-Bold'>
+   <FEncoding `FrameRoman'>
+   <FSize  18.0 pt>
+   <FUnderlining FNoUnderlining>
+   <FOverline No>
+   <FStrike No>
+   <FChangeBar No>
+   <FOutline No>
+   <FShadow No>
+   <FPairKern Yes>
+   <FTsume No>
+   <FCase FAsTyped>
+   <FPosition FNormal>
+   <FDX  0.0%>
+   <FDY  0.0%>
+   <FDW  0.0%>
+   <FStretch  100.0%>
+   <FLanguage German>
+   <FLocked No>
+   <FSeparation 0>
+   <FColor `Schwarz'>
+  > # end of PgfFont
+  <PgfLineSpacing Fixed>
+  <PgfLeading  6.0 pt>
+  <PgfAutoNum No>
+  <PgfNumTabs 0>
+  <PgfHyphenate No>
+  <HyphenMaxLines 2>
+  <HyphenMinPrefix 3>
+  <HyphenMinSuffix 3>
+  <HyphenMinWord 5>
+  <PgfLetterSpace No>
+  <PgfMinWordSpace 90>
+  <PgfOptWordSpace 100>
+  <PgfMaxWordSpace 110>
+  <PgfMinJRomanLetterSpace 0>
+  <PgfOptJRomanLetterSpace 25>
+  <PgfMaxJRomanLetterSpace 50>
+  <PgfMinJLetterSpace 0>
+  <PgfOptJLetterSpace 0>
+  <PgfMaxJLetterSpace 10>
+  <PgfYakumonoType Floating>
+  <PgfLanguage German>
+  <PgfCellAlignment Top>
+  <PgfCellMargins  0.0 pt 0.0 pt 0.0 pt 0.0 pt>
+  <PgfCellLMarginFixed No>
+  <PgfCellTMarginFixed No>
+  <PgfCellRMarginFixed No>
+  <PgfCellBMarginFixed No>
+  <PgfLocked No>
+ > # end of Pgf
+ <Pgf 
+  <PgfTag `\x86 berschrift'>
+  <PgfUseNextTag Yes>
+  <PgfNextTag `Haupttext'>
+  <PgfAlignment Left>
+  <PgfFIndent  0.0 cm>
+  <PgfLIndent  0.0 cm>
+  <PgfRIndent  0.0 cm>
+  <PgfFIndentRelative No>
+  <PgfFIndentOffset  0.0 cm>
+  <PgfTopSeparator `'>
+  <PgfTopSepAtIndent No>
+  <PgfTopSepOffset  0.0 cm>
+  <PgfBotSeparator `'>
+  <PgfBotSepAtIndent No>
+  <PgfBotSepOffset  0.0 cm>
+  <PgfPlacement Anywhere>
+  <PgfPlacementStyle Normal>
+  <PgfRunInDefaultPunct `. '>
+  <PgfSpBefore  14.0 pt>
+  <PgfSpAfter  5.0 pt>
+  <PgfWithPrev No>
+  <PgfWithNext Yes>
+  <PgfBlockSize 1>
+  <PgfFont 
+   <FTag `'>
+   <FFamily `Times'>
+   <FVar `Regular'>
+   <FWeight `Bold'>
+   <FAngle `Regular'>
+   <FPostScriptName `Times-Bold'>
+   <FEncoding `FrameRoman'>
+   <FSize  14.0 pt>
+   <FUnderlining FNoUnderlining>
+   <FOverline No>
+   <FStrike No>
+   <FChangeBar No>
+   <FOutline No>
+   <FShadow No>
+   <FPairKern Yes>
+   <FTsume No>
+   <FCase FAsTyped>
+   <FPosition FNormal>
+   <FDX  0.0%>
+   <FDY  0.0%>
+   <FDW  0.0%>
+   <FStretch  100.0%>
+   <FLanguage German>
+   <FLocked No>
+   <FSeparation 0>
+   <FColor `Schwarz'>
+  > # end of PgfFont
+  <PgfLineSpacing Fixed>
+  <PgfLeading  2.0 pt>
+  <PgfAutoNum No>
+  <PgfNumTabs 0>
+  <PgfHyphenate Yes>
+  <HyphenMaxLines 2>
+  <HyphenMinPrefix 3>
+  <HyphenMinSuffix 3>
+  <HyphenMinWord 5>
+  <PgfLetterSpace No>
+  <PgfMinWordSpace 90>
+  <PgfOptWordSpace 100>
+  <PgfMaxWordSpace 110>
+  <PgfMinJRomanLetterSpace 0>
+  <PgfOptJRomanLetterSpace 25>
+  <PgfMaxJRomanLetterSpace 50>
+  <PgfMinJLetterSpace 0>
+  <PgfOptJLetterSpace 0>
+  <PgfMaxJLetterSpace 10>
+  <PgfYakumonoType Floating>
+  <PgfLanguage German>
+  <PgfCellAlignment Top>
+  <PgfCellMargins  0.0 pt 0.0 pt 0.0 pt 0.0 pt>
+  <PgfCellLMarginFixed No>
+  <PgfCellTMarginFixed No>
+  <PgfCellRMarginFixed No>
+  <PgfCellBMarginFixed No>
+  <PgfLocked No>
+ > # end of Pgf
+ <Pgf 
+  <PgfTag `\x86 berschrift1IVZIVZ'>
+  <PgfUseNextTag No>
+  <PgfNextTag `'>
+  <PgfAlignment Left>
+  <PgfFIndent  0.0 cm>
+  <PgfLIndent  0.0 cm>
+  <PgfRIndent  0.0 cm>
+  <PgfFIndentRelative No>
+  <PgfFIndentOffset  0.0 cm>
+  <PgfTopSeparator `'>
+  <PgfTopSepAtIndent No>
+  <PgfTopSepOffset  0.0 cm>
+  <PgfBotSeparator `'>
+  <PgfBotSepAtIndent No>
+  <PgfBotSepOffset  0.0 cm>
+  <PgfPlacement Anywhere>
+  <PgfPlacementStyle Normal>
+  <PgfRunInDefaultPunct `. '>
+  <PgfSpBefore  0.0 pt>
+  <PgfSpAfter  0.0 pt>
+  <PgfWithPrev No>
+  <PgfWithNext No>
+  <PgfBlockSize 1>
+  <PgfFont 
+   <FTag `'>
+   <FFamily `Times'>
+   <FVar `Regular'>
+   <FWeight `Regular'>
+   <FAngle `Regular'>
+   <FPostScriptName `Times-Roman'>
+   <FEncoding `FrameRoman'>
+   <FSize  12.0 pt>
+   <FUnderlining FNoUnderlining>
+   <FOverline No>
+   <FStrike No>
+   <FChangeBar No>
+   <FOutline No>
+   <FShadow No>
+   <FPairKern No>
+   <FTsume No>
+   <FCase FAsTyped>
+   <FPosition FNormal>
+   <FDX  0.0%>
+   <FDY  0.0%>
+   <FDW  0.0%>
+   <FStretch  100.0%>
+   <FLanguage German>
+   <FLocked No>
+   <FSeparation 0>
+   <FColor `Schwarz'>
+  > # end of PgfFont
+  <PgfLineSpacing Fixed>
+  <PgfLeading  2.0 pt>
+  <PgfAutoNum No>
+  <PgfNumTabs 0>
+  <PgfHyphenate Yes>
+  <HyphenMaxLines 2>
+  <HyphenMinPrefix 2>
+  <HyphenMinSuffix 2>
+  <HyphenMinWord 5>
+  <PgfLetterSpace No>
+  <PgfMinWordSpace 75>
+  <PgfOptWordSpace 100>
+  <PgfMaxWordSpace 125>
+  <PgfMinJRomanLetterSpace 0>
+  <PgfOptJRomanLetterSpace 25>
+  <PgfMaxJRomanLetterSpace 50>
+  <PgfMinJLetterSpace 0>
+  <PgfOptJLetterSpace 0>
+  <PgfMaxJLetterSpace 10>
+  <PgfYakumonoType Floating>
+  <PgfLanguage German>
+  <PgfCellAlignment Top>
+  <PgfCellMargins  0.0 pt 0.0 pt 0.0 pt 0.0 pt>
+  <PgfCellLMarginFixed No>
+  <PgfCellTMarginFixed No>
+  <PgfCellRMarginFixed No>
+  <PgfCellBMarginFixed No>
+  <PgfLocked No>
+ > # end of Pgf
+ <Pgf 
+  <PgfTag `\x86 berschrift2IVZIVZ'>
+  <PgfUseNextTag No>
+  <PgfNextTag `'>
+  <PgfAlignment Left>
+  <PgfFIndent  0.0 cm>
+  <PgfLIndent  0.0 cm>
+  <PgfRIndent  0.0 cm>
+  <PgfFIndentRelative No>
+  <PgfFIndentOffset  0.0 cm>
+  <PgfTopSeparator `'>
+  <PgfTopSepAtIndent No>
+  <PgfTopSepOffset  0.0 cm>
+  <PgfBotSeparator `'>
+  <PgfBotSepAtIndent No>
+  <PgfBotSepOffset  0.0 cm>
+  <PgfPlacement Anywhere>
+  <PgfPlacementStyle Normal>
+  <PgfRunInDefaultPunct `. '>
+  <PgfSpBefore  0.0 pt>
+  <PgfSpAfter  0.0 pt>
+  <PgfWithPrev No>
+  <PgfWithNext No>
+  <PgfBlockSize 1>
+  <PgfFont 
+   <FTag `'>
+   <FFamily `Times'>
+   <FVar `Regular'>
+   <FWeight `Regular'>
+   <FAngle `Regular'>
+   <FPostScriptName `Times-Roman'>
+   <FEncoding `FrameRoman'>
+   <FSize  12.0 pt>
+   <FUnderlining FNoUnderlining>
+   <FOverline No>
+   <FStrike No>
+   <FChangeBar No>
+   <FOutline No>
+   <FShadow No>
+   <FPairKern No>
+   <FTsume No>
+   <FCase FAsTyped>
+   <FPosition FNormal>
+   <FDX  0.0%>
+   <FDY  0.0%>
+   <FDW  0.0%>
+   <FStretch  100.0%>
+   <FLanguage German>
+   <FLocked No>
+   <FSeparation 0>
+   <FColor `Schwarz'>
+  > # end of PgfFont
+  <PgfLineSpacing Fixed>
+  <PgfLeading  2.0 pt>
+  <PgfAutoNum No>
+  <PgfNumTabs 0>
+  <PgfHyphenate Yes>
+  <HyphenMaxLines 2>
+  <HyphenMinPrefix 2>
+  <HyphenMinSuffix 2>
+  <HyphenMinWord 5>
+  <PgfLetterSpace No>
+  <PgfMinWordSpace 75>
+  <PgfOptWordSpace 100>
+  <PgfMaxWordSpace 125>
+  <PgfMinJRomanLetterSpace 0>
+  <PgfOptJRomanLetterSpace 25>
+  <PgfMaxJRomanLetterSpace 50>
+  <PgfMinJLetterSpace 0>
+  <PgfOptJLetterSpace 0>
+  <PgfMaxJLetterSpace 10>
+  <PgfYakumonoType Floating>
+  <PgfLanguage German>
+  <PgfCellAlignment Top>
+  <PgfCellMargins  0.0 pt 0.0 pt 0.0 pt 0.0 pt>
+  <PgfCellLMarginFixed No>
+  <PgfCellTMarginFixed No>
+  <PgfCellRMarginFixed No>
+  <PgfCellBMarginFixed No>
+  <PgfLocked No>
+ > # end of Pgf
+ <Pgf 
+  <PgfTag `\x86 berschriftIVZIVZ'>
+  <PgfUseNextTag No>
+  <PgfNextTag `'>
+  <PgfAlignment Left>
+  <PgfFIndent  0.0 cm>
+  <PgfLIndent  0.0 cm>
+  <PgfRIndent  0.0 cm>
+  <PgfFIndentRelative No>
+  <PgfFIndentOffset  0.0 cm>
+  <PgfTopSeparator `'>
+  <PgfTopSepAtIndent No>
+  <PgfTopSepOffset  0.0 cm>
+  <PgfBotSeparator `'>
+  <PgfBotSepAtIndent No>
+  <PgfBotSepOffset  0.0 cm>
+  <PgfPlacement Anywhere>
+  <PgfPlacementStyle Normal>
+  <PgfRunInDefaultPunct `. '>
+  <PgfSpBefore  0.0 pt>
+  <PgfSpAfter  0.0 pt>
+  <PgfWithPrev No>
+  <PgfWithNext No>
+  <PgfBlockSize 1>
+  <PgfFont 
+   <FTag `'>
+   <FFamily `Times'>
+   <FVar `Regular'>
+   <FWeight `Regular'>
+   <FAngle `Regular'>
+   <FPostScriptName `Times-Roman'>
+   <FEncoding `FrameRoman'>
+   <FSize  12.0 pt>
+   <FUnderlining FNoUnderlining>
+   <FOverline No>
+   <FStrike No>
+   <FChangeBar No>
+   <FOutline No>
+   <FShadow No>
+   <FPairKern No>
+   <FTsume No>
+   <FCase FAsTyped>
+   <FPosition FNormal>
+   <FDX  0.0%>
+   <FDY  0.0%>
+   <FDW  0.0%>
+   <FStretch  100.0%>
+   <FLanguage German>
+   <FLocked No>
+   <FSeparation 0>
+   <FColor `Schwarz'>
+  > # end of PgfFont
+  <PgfLineSpacing Fixed>
+  <PgfLeading  2.0 pt>
+  <PgfAutoNum No>
+  <PgfNumTabs 0>
+  <PgfHyphenate Yes>
+  <HyphenMaxLines 2>
+  <HyphenMinPrefix 2>
+  <HyphenMinSuffix 2>
+  <HyphenMinWord 5>
+  <PgfLetterSpace No>
+  <PgfMinWordSpace 75>
+  <PgfOptWordSpace 100>
+  <PgfMaxWordSpace 125>
+  <PgfMinJRomanLetterSpace 0>
+  <PgfOptJRomanLetterSpace 25>
+  <PgfMaxJRomanLetterSpace 50>
+  <PgfMinJLetterSpace 0>
+  <PgfOptJLetterSpace 0>
+  <PgfMaxJLetterSpace 10>
+  <PgfYakumonoType Floating>
+  <PgfLanguage German>
+  <PgfCellAlignment Top>
+  <PgfCellMargins  0.0 pt 0.0 pt 0.0 pt 0.0 pt>
+  <PgfCellLMarginFixed No>
+  <PgfCellTMarginFixed No>
+  <PgfCellRMarginFixed No>
+  <PgfCellBMarginFixed No>
+  <PgfLocked No>
+ > # end of Pgf
+> # end of PgfCatalog
+<FontCatalog 
+ <Font 
+  <FTag `Betonung'>
+  <FFamily `Symbol'>
+  <FVar `Regular'>
+  <FWeight `Regular'>
+  <FAngle `Regular'>
+  <FPostScriptName `Symbol'>
+  <FEncoding `FrameRoman'>
+  <FSize  10.0 pt>
+  <FOverline No>
+  <FStrike No>
+  <FChangeBar No>
+  <FOutline No>
+  <FShadow No>
+  <FPairKern Yes>
+  <FPosition FNormal>
+  <FDW  0.0%>
+  <FLocked No>
+  <FSeparation 0>
+  <FColor `Schwarz'>
+ > # end of Font
+ <Font 
+  <FTag `GleichungVariablen'>
+  <FAngle `Italic'>
+  <FLocked No>
+ > # end of Font
+ <Font 
+  <FTag `Hochgestellt'>
+  <FFamily `Symbol'>
+  <FVar `Regular'>
+  <FWeight `Regular'>
+  <FAngle `Regular'>
+  <FPostScriptName `Symbol'>
+  <FEncoding `FrameRoman'>
+  <FSize  10.0 pt>
+  <FOverline No>
+  <FStrike No>
+  <FChangeBar No>
+  <FOutline No>
+  <FShadow No>
+  <FPairKern Yes>
+  <FPosition FNormal>
+  <FDW  0.0%>
+  <FLocked No>
+  <FSeparation 0>
+  <FColor `Schwarz'>
+ > # end of Font
+ <Font 
+  <FTag `Tiefgestellt'>
+  <FFamily `Symbol'>
+  <FVar `Regular'>
+  <FWeight `Regular'>
+  <FAngle `Regular'>
+  <FPostScriptName `Symbol'>
+  <FEncoding `FrameRoman'>
+  <FSize  10.0 pt>
+  <FOverline No>
+  <FStrike No>
+  <FChangeBar No>
+  <FOutline No>
+  <FShadow No>
+  <FPairKern Yes>
+  <FPosition FNormal>
+  <FDW  0.0%>
+  <FLocked No>
+  <FSeparation 0>
+  <FColor `Schwarz'>
+ > # end of Font
+> # end of FontCatalog
+<RulingCatalog 
+ <Ruling 
+  <RulingTag `Doppelt'>
+  <RulingPenWidth  0.5 pt>
+  <RulingGap  2.0 pt>
+  <RulingSeparation 0>
+  <RulingColor `Schwarz'>
+  <RulingPen 0>
+  <RulingLines 2>
+ > # end of Ruling
+ <Ruling 
+  <RulingTag `Mittel'>
+  <RulingPenWidth  2.0 pt>
+  <RulingGap  0.0 pt>
+  <RulingSeparation 0>
+  <RulingColor `Schwarz'>
+  <RulingPen 0>
+  <RulingLines 1>
+ > # end of Ruling
+ <Ruling 
+  <RulingTag `Fett'>
+  <RulingPenWidth  3.0 pt>
+  <RulingGap  0.0 pt>
+  <RulingSeparation 0>
+  <RulingColor `Schwarz'>
+  <RulingPen 0>
+  <RulingLines 1>
+ > # end of Ruling
+ <Ruling 
+  <RulingTag `Normal'>
+  <RulingPenWidth  0.5 pt>
+  <RulingGap  0.0 pt>
+  <RulingSeparation 0>
+  <RulingColor `Schwarz'>
+  <RulingPen 0>
+  <RulingLines 1>
+ > # end of Ruling
+ <Ruling 
+  <RulingTag `Fein'>
+  <RulingPenWidth  0.25 pt>
+  <RulingGap  0.0 pt>
+  <RulingSeparation 0>
+  <RulingColor `Schwarz'>
+  <RulingPen 0>
+  <RulingLines 1>
+ > # end of Ruling
+> # end of RulingCatalog
+<TblCatalog 
+ <TblFormat 
+  <TblTag `Format B'>
+  <TblColumn 
+   <TblColumnNum 0>
+   <TblColumnWidth  2.5 cm>
+   <TblColumnH 
+    <PgfTag `Kopfzelle'>
+   > # end of TblColumnH
+   <TblColumnBody 
+    <PgfTag `Standardzelle'>
+   > # end of TblColumnBody
+   <TblColumnF 
+    <PgfTag `Kopfzelle'>
+   > # end of TblColumnF
+  > # end of TblColumn
+  <TblColumn 
+   <TblColumnNum 1>
+   <TblColumnWidth  2.5 cm>
+   <TblColumnH 
+    <PgfTag `Kopfzelle'>
+   > # end of TblColumnH
+   <TblColumnBody 
+    <PgfTag `Standardzelle'>
+   > # end of TblColumnBody
+   <TblColumnF 
+    <PgfTag `Kopfzelle'>
+   > # end of TblColumnF
+  > # end of TblColumn
+  <TblColumn 
+   <TblColumnNum 2>
+   <TblColumnWidth  2.5 cm>
+   <TblColumnH 
+    <PgfTag `Kopfzelle'>
+   > # end of TblColumnH
+   <TblColumnBody 
+    <PgfTag `Standardzelle'>
+   > # end of TblColumnBody
+   <TblColumnF 
+    <PgfTag `Kopfzelle'>
+   > # end of TblColumnF
+  > # end of TblColumn
+  <TblColumn 
+   <TblColumnNum 3>
+   <TblColumnWidth  2.5 cm>
+   <TblColumnH 
+    <PgfTag `Kopfzelle'>
+   > # end of TblColumnH
+   <TblColumnBody 
+    <PgfTag `Standardzelle'>
+   > # end of TblColumnBody
+   <TblColumnF 
+    <PgfTag `Kopfzelle'>
+   > # end of TblColumnF
+  > # end of TblColumn
+  <TblColumn 
+   <TblColumnNum 4>
+   <TblColumnWidth  2.5 cm>
+   <TblColumnH 
+    <PgfTag `Kopfzelle'>
+   > # end of TblColumnH
+   <TblColumnBody 
+    <PgfTag `Standardzelle'>
+   > # end of TblColumnBody
+   <TblColumnF 
+    <PgfTag `Kopfzelle'>
+   > # end of TblColumnF
+  > # end of TblColumn
+  <TblCellMargins  6.0 pt 6.0 pt 6.0 pt 4.0 pt>
+  <TblLIndent  0.0 cm>
+  <TblRIndent  0.0 cm>
+  <TblAlignment Center>
+  <TblPlacement Anywhere>
+  <TblSpBefore  12.0 pt>
+  <TblSpAfter  12.0 pt>
+  <TblBlockSize 1>
+  <TblHFFill 15>
+  <TblHFSeparation 0>
+  <TblHFColor `Schwarz'>
+  <TblBodyFill 15>
+  <TblBodySeparation 0>
+  <TblBodyColor `Schwarz'>
+  <TblShadeByColumn No>
+  <TblLocked No>
+  <TblShadePeriod 2>
+  <TblXFill 15>
+  <TblXSeparation 0>
+  <TblXColor `Schwarz'>
+  <TblAltShadePeriod 2>
+  <TblLRuling `'>
+  <TblBRuling `Normal'>
+  <TblRRuling `'>
+  <TblTRuling `Mittel'>
+  <TblColumnRuling `Normal'>
+  <TblXColumnRuling `Normal'>
+  <TblBodyRowRuling `Normal'>
+  <TblXRowRuling `Normal'>
+  <TblHFRowRuling `Normal'>
+  <TblSeparatorRuling `Mittel'>
+  <TblXColumnNum 1>
+  <TblRulingPeriod 4>
+  <TblLastBRuling No>
+  <TblTitlePlacement InHeader>
+  <TblTitlePgf1 
+   <PgfTag `TabelleTitel'>
+  > # end of TblTitlePgf1
+  <TblTitleGap  6.0 pt>
+  <TblInitNumColumns 6>
+  <TblInitNumHRows 1>
+  <TblInitNumBodyRows 16>
+  <TblInitNumFRows 0>
+  <TblNumByColumn No>
+ > # end of TblFormat
+ <TblFormat 
+  <TblTag `Format A'>
+  <TblColumn 
+   <TblColumnNum 0>
+   <TblColumnWidth  2.5 cm>
+   <TblColumnH 
+    <PgfTag `Kopfzelle'>
+   > # end of TblColumnH
+   <TblColumnBody 
+    <PgfTag `Standardzelle'>
+   > # end of TblColumnBody
+   <TblColumnF 
+    <PgfTag `Kopfzelle'>
+   > # end of TblColumnF
+  > # end of TblColumn
+  <TblColumn 
+   <TblColumnNum 1>
+   <TblColumnWidth  2.5 cm>
+   <TblColumnH 
+    <PgfTag `Kopfzelle'>
+   > # end of TblColumnH
+   <TblColumnBody 
+    <PgfTag `Standardzelle'>
+   > # end of TblColumnBody
+   <TblColumnF 
+    <PgfTag `Kopfzelle'>
+   > # end of TblColumnF
+  > # end of TblColumn
+  <TblColumn 
+   <TblColumnNum 2>
+   <TblColumnWidth  2.5 cm>
+   <TblColumnH 
+    <PgfTag `Kopfzelle'>
+   > # end of TblColumnH
+   <TblColumnBody 
+    <PgfTag `Standardzelle'>
+   > # end of TblColumnBody
+   <TblColumnF 
+    <PgfTag `Kopfzelle'>
+   > # end of TblColumnF
+  > # end of TblColumn
+  <TblColumn 
+   <TblColumnNum 3>
+   <TblColumnWidth  2.5 cm>
+   <TblColumnH 
+    <PgfTag `Kopfzelle'>
+   > # end of TblColumnH
+   <TblColumnBody 
+    <PgfTag `Standardzelle'>
+   > # end of TblColumnBody
+   <TblColumnF 
+    <PgfTag `Kopfzelle'>
+   > # end of TblColumnF
+  > # end of TblColumn
+  <TblColumn 
+   <TblColumnNum 4>
+   <TblColumnWidth  2.5 cm>
+   <TblColumnH 
+    <PgfTag `Kopfzelle'>
+   > # end of TblColumnH
+   <TblColumnBody 
+    <PgfTag `Standardzelle'>
+   > # end of TblColumnBody
+   <TblColumnF 
+    <PgfTag `Kopfzelle'>
+   > # end of TblColumnF
+  > # end of TblColumn
+  <TblCellMargins  6.0 pt 6.0 pt 6.0 pt 4.0 pt>
+  <TblLIndent  0.0 cm>
+  <TblRIndent  0.0 cm>
+  <TblAlignment Left>
+  <TblPlacement Anywhere>
+  <TblSpBefore  12.0 pt>
+  <TblSpAfter  12.0 pt>
+  <TblBlockSize 1>
+  <TblHFFill 15>
+  <TblHFSeparation 0>
+  <TblHFColor `Schwarz'>
+  <TblBodyFill 15>
+  <TblBodySeparation 0>
+  <TblBodyColor `Schwarz'>
+  <TblShadeByColumn No>
+  <TblLocked No>
+  <TblShadePeriod 2>
+  <TblXFill 15>
+  <TblXSeparation 0>
+  <TblXColor `Schwarz'>
+  <TblAltShadePeriod 2>
+  <TblLRuling `Normal'>
+  <TblBRuling `Normal'>
+  <TblRRuling `Normal'>
+  <TblTRuling `Normal'>
+  <TblColumnRuling `Normal'>
+  <TblXColumnRuling `Normal'>
+  <TblBodyRowRuling `Normal'>
+  <TblXRowRuling `Normal'>
+  <TblHFRowRuling `Normal'>
+  <TblSeparatorRuling `Doppelt'>
+  <TblXColumnNum 1>
+  <TblRulingPeriod 4>
+  <TblLastBRuling No>
+  <TblTitlePlacement InHeader>
+  <TblTitlePgf1 
+   <PgfTag `TabelleTitel'>
+  > # end of TblTitlePgf1
+  <TblTitleGap  6.0 pt>
+  <TblInitNumColumns 5>
+  <TblInitNumHRows 1>
+  <TblInitNumBodyRows 7>
+  <TblInitNumFRows 1>
+  <TblNumByColumn No>
+ > # end of TblFormat
+> # end of TblCatalog
+<KumihanCatalog 
+> # end of KumihanCatalog
+<Views 
+ <View 
+  <ViewNumber 1>
+  <ViewCutout `Wei\xa7 '>
+ > # end of View
+ <View 
+  <ViewNumber 2>
+  <ViewCutout `Wei\xa7 '>
+  <ViewInvisible `Rot'>
+  <ViewInvisible `Gr\x9f n'>
+  <ViewInvisible `Blau'>
+  <ViewInvisible `Cyan'>
+  <ViewInvisible `Magenta'>
+ > # end of View
+ <View 
+  <ViewNumber 3>
+  <ViewInvisible `Schwarz'>
+  <ViewCutout `Wei\xa7 '>
+ > # end of View
+ <View 
+  <ViewNumber 4>
+  <ViewCutout `Wei\xa7 '>
+ > # end of View
+ <View 
+  <ViewNumber 5>
+  <ViewCutout `Wei\xa7 '>
+ > # end of View
+ <View 
+  <ViewNumber 6>
+  <ViewCutout `Wei\xa7 '>
+ > # end of View
+> # end of Views
+<VariableFormats 
+ <VariableFormat 
+  <VariableName `Page Count'>
+  <VariableDef `<$lastpagenum\>'>
+ > # end of VariableFormat
+ <VariableFormat 
+  <VariableName `Current Date (Long)'>
+  <VariableDef `<$daynum\>. <$monthname\> <$year\>'>
+ > # end of VariableFormat
+ <VariableFormat 
+  <VariableName `Current Date (Short)'>
+  <VariableDef `<$daynum\>.<$monthnum\>.<$shortyear\>'>
+ > # end of VariableFormat
+ <VariableFormat 
+  <VariableName `Modification Date (Long)'>
+  <VariableDef `<$daynum\>. <$monthname\> <$year\> <$hour24\>.<$minute00\>'>
+ > # end of VariableFormat
+ <VariableFormat 
+  <VariableName `Modification Date (Short)'>
+  <VariableDef `<$daynum\>.<$monthnum\>.<$shortyear\>'>
+ > # end of VariableFormat
+ <VariableFormat 
+  <VariableName `Creation Date (Long)'>
+  <VariableDef `<$daynum\>. <$monthname\> <$year\>'>
+ > # end of VariableFormat
+ <VariableFormat 
+  <VariableName `Creation Date (Short)'>
+  <VariableDef `<$daynum\>.<$monthnum\>.<$shortyear\>'>
+ > # end of VariableFormat
+ <VariableFormat 
+  <VariableName `Filename (Long)'>
+  <VariableDef `<$fullfilename\>'>
+ > # end of VariableFormat
+ <VariableFormat 
+  <VariableName `Filename (Short)'>
+  <VariableDef `<$filename\>'>
+ > # end of VariableFormat
+ <VariableFormat 
+  <VariableName `Running H/F 1'>
+  <VariableDef `<$paratext[Titel]\>'>
+ > # end of VariableFormat
+ <VariableFormat 
+  <VariableName `Running H/F 2'>
+  <VariableDef `<$paratext[\x86 berschrift]\>'>
+ > # end of VariableFormat
+ <VariableFormat 
+  <VariableName `Current Page #'>
+  <VariableDef `<$curpagenum\>'>
+ > # end of VariableFormat
+ <VariableFormat 
+  <VariableName `Running H/F 3'>
+  <VariableDef `<$marker1\>'>
+ > # end of VariableFormat
+ <VariableFormat 
+  <VariableName `Running H/F 4'>
+  <VariableDef `<$marker2\>'>
+ > # end of VariableFormat
+ <VariableFormat 
+  <VariableName `Table Continuation'>
+  <VariableDef ` (Forts.)'>
+ > # end of VariableFormat
+ <VariableFormat 
+  <VariableName `Table Sheet'>
+  <VariableDef `(Abschnitt <$tblsheetnum\> von <$tblsheetcount\>)'>
+ > # end of VariableFormat
+> # end of VariableFormats
+<MarkerTypeCatalog 
+ <MTypeName `HTML Macro'>
+> # end of MarkerTypeCatalog
+<XRefFormats 
+ <XRefFormat 
+  <XRefName `\x86 berschrift & Seite'>
+  <XRefDef `<Betonung\><$paratext\><Default \xa6  Font\> auf Seite <$pagenum\>'>
+ > # end of XRefFormat
+ <XRefFormat 
+  <XRefName `Seite'>
+  <XRefDef `Seite <$pagenum\>'>
+ > # end of XRefFormat
+ <XRefFormat 
+  <XRefName `Siehe \x86 berschrift & Seite'>
+  <XRefDef `Siehe <Betonung\><$paratext\><Default \xa6  Font\> auf Seite\x11 <$pagenum\>.'>
+ > # end of XRefFormat
+ <XRefFormat 
+  <XRefName `Tabelle & Seite'>
+  <XRefDef `<Betonung\><$paranum\><$paratext\><Default \xa6  Font\> auf Seite\x11 <$pagenum\>'>
+ > # end of XRefFormat
+> # end of XRefFormats
+<Document 
+ <DViewRect 392 75 595 777 >
+ <DWindowRect 368 49 639 880 >
+ <DViewScale  100.0%>
+ <DNextUnique 54>
+ <DPageSize  21.0 cm 29.7 cm>
+ <DMenuBar `'>
+ <DVoMenuBar `'>
+ <DStartPage 2>
+ <DPageNumStyle Arabic>
+ <DPagePointStyle Arabic>
+ <DTwoSides No>
+ <DParity FirstRight>
+ <DFrozenPages No>
+ <DPageRounding DeleteEmptyPages>
+ <DFNoteMaxH  10.16 cm>
+ <FNoteStartNum 1>
+ <DFNoteRestart PerPage>
+ <DFNoteTag `Fu\xa7 note'>
+ <DFNoteLabels `*\xa0 \xe0 '>
+ <DFNoteNumStyle Arabic>
+ <DFNoteAnchorPos FNSuperscript>
+ <DFNoteNumberPos FNBaseline>
+ <DFNoteAnchorPrefix `'>
+ <DFNoteAnchorSuffix `'>
+ <DFNoteNumberPrefix `'>
+ <DFNoteNumberSuffix `. '>
+ <DTblFNoteTag `TabelleFu\xa7 note'>
+ <DTblFNoteLabels `*\xa0 \xe0 '>
+ <DTblFNoteNumStyle LCAlpha>
+ <DTblFNoteAnchorPos FNSuperscript>
+ <DTblFNoteNumberPos FNBaseline>
+ <DTblFNoteAnchorPrefix `'>
+ <DTblFNoteAnchorSuffix `'>
+ <DTblFNoteNumberPrefix `'>
+ <DTblFNoteNumberSuffix `. '>
+ <DLinebreakChars `/ - \xd0  \xd1 '>
+ <DPunctuationChars `:;,.\xc9 !?'>
+ <DChBarGap  0.635 cm>
+ <DChBarWidth  2.0 pt>
+ <DChBarPosition LeftOfCol>
+ <DChBarColor `Schwarz'>
+ <DAutoChBars No>
+ <DShowAllConditions Yes>
+ <DDisplayOverrides Yes>
+ <DPageScrolling Variable>
+ <DViewOnly No>
+ <DViewOnlyXRef GotoBehavior>
+ <DViewOnlySelect Yes>
+ <DViewOnlyWinBorders Yes>
+ <DViewOnlyWinMenubar Yes>
+ <DViewOnlyWinPopup Yes>
+ <DViewOnlyWinPalette No>
+ <DFluid No>
+ <DFluidSideheads No>
+ <DGridOn No>
+ <DPageGrid  1.0 cm>
+ <DSnapGrid  0.25 cm>
+ <DSnapRotation  0.0>
+ <DRulersOn Yes>
+ <DFullRulers Yes>
+ <DGraphicsOff No>
+ <DCurrentView 1>
+ <DBordersOn Yes>
+ <DSymbolsOn No>
+ <DLinkBoundariesOn No>
+ <DSmartQuotesOn No>
+ <DSmartSpacesOn No>
+ <DUpdateTextInsetsOnOpen Yes>
+ <DUpdateXRefsOnOpen Yes>
+ <DLanguage German>
+ <DSuperscriptSize  80.0%>
+ <DSubscriptSize  80.0%>
+ <DSmallCapsSize  80.0%>
+ <DSuperscriptShift  40.0%>
+ <DSubscriptShift  25.0%>
+ <DSuperscriptStretch  100.0%>
+ <DSubscriptStretch  100.0%>
+ <DSmallCapsStretch  100.0%>
+ <DRubiSize  50.0%>
+ <DRubiOverhang No>
+ <DRubiAlignAtLineBounds No>
+ <DNarrowRubiSpaceForJapanese Proportional>
+ <DWideRubiSpaceForJapanese Proportional>
+ <DNarrowRubiSpaceForOther Narrow>
+ <DWideRubiSpaceForOther Narrow>
+ <DMathAlphaCharFontFamily `Times'>
+ <DMathSmallIntegral  14.0 pt>
+ <DMathMediumIntegral  18.0 pt>
+ <DMathLargeIntegral  24.0 pt>
+ <DMathSmallSigma  14.0 pt>
+ <DMathMediumSigma  18.0 pt>
+ <DMathLargeSigma  24.0 pt>
+ <DMathSmallLevel1  9.0 pt>
+ <DMathMediumLevel1  12.0 pt>
+ <DMathLargeLevel1  14.0 pt>
+ <DMathSmallLevel2  7.0 pt>
+ <DMathMediumLevel2  9.0 pt>
+ <DMathLargeLevel2  12.0 pt>
+ <DMathSmallLevel3  5.0 pt>
+ <DMathMediumLevel3  6.0 pt>
+ <DMathLargeLevel3  8.0 pt>
+ <DMathSmallHoriz  0.0 pt>
+ <DMathMediumHoriz  0.0 pt>
+ <DMathLargeHoriz  0.0 pt>
+ <DMathSmallVert  0.0 pt>
+ <DMathMediumVert  0.0 pt>
+ <DMathLargeVert  0.0 pt>
+ <DMathShowCustom No>
+ <DMathFunctions `'>
+ <DMathNumbers `'>
+ <DMathVariables `GleichungVariablen'>
+ <DMathStrings `'>
+ <DMathGreek `'>
+ <DMathCatalog >
+ <DPrintSkipBlankPages No>
+ <DPrintSeparations No>
+ <DGenerateAcrobatInfo No>
+ <DAcrobatParagraphBookmarks Yes>
+ <DAcrobatBookmarksIncludeTagNames No>
+> # end of Document
+<InitialAutoNums 
+> # end of InitialAutoNums
+<Dictionary 
+> # end of Dictionary
+<AFrames 
+> # end of AFrames
+<Page 
+ <Unique 21>
+ <PageType LeftMasterPage>
+ <PageTag `Links'>
+ <PageSize  21.0 cm 29.7 cm>
+ <PageOrientation Portrait>
+ <PageAngle  0.0>
+ <TextRect 
+  <ID 1>
+  <Unique 48>
+  <Pen 15>
+  <Fill 15>
+  <PenWidth  1.0 pt>
+  <Separation 0>
+  <ObColor `Schwarz'>
+  <DashedPattern 
+   <DashedStyle Solid>
+  > # end of DashedPattern
+  <RunaroundGap  0.0 pt>
+  <RunaroundType None>
+  <ShapeRect  2.54 cm 1.27 cm 15.92 cm 0.35278 cm>
+  <BRect  2.54 cm 1.27 cm 15.92 cm 0.35278 cm>
+  <TRNumColumns 1>
+  <TRColumnGap  0.0 cm>
+  <TRColumnBalance No>
+  <TRSideheadWidth  3.0 cm>
+  <TRSideheadGap  0.5 cm>
+  <TRSideheadPlacement Left>
+  <TRNext 0>
+ > # end of TextRect
+ <TextRect 
+  <ID 2>
+  <Unique 47>
+  <ShapeRect  2.54 cm 28.19481 cm 15.92 cm 0.35278 cm>
+  <BRect  2.54 cm 28.19481 cm 15.92 cm 0.35278 cm>
+  <TRNumColumns 1>
+  <TRColumnGap  0.0 cm>
+  <TRColumnBalance No>
+  <TRSideheadWidth  3.0 cm>
+  <TRSideheadGap  0.5 cm>
+  <TRSideheadPlacement Left>
+  <TRNext 0>
+ > # end of TextRect
+ <TextRect 
+  <ID 3>
+  <Unique 46>
+  <ShapeRect  2.54 cm 2.54 cm 15.92 cm 24.62 cm>
+  <BRect  2.54 cm 2.54 cm 15.92 cm 24.62 cm>
+  <TRNumColumns 1>
+  <TRColumnGap  0.0 cm>
+  <TRColumnBalance No>
+  <TRSideheadWidth  3.0 cm>
+  <TRSideheadGap  0.5 cm>
+  <TRSideheadPlacement Left>
+  <TRNext 0>
+ > # end of TextRect
+> # end of Page
+<Page 
+ <Unique 33>
+ <PageType RightMasterPage>
+ <PageTag `Rechts'>
+ <PageSize  21.0 cm 29.7 cm>
+ <PageOrientation Portrait>
+ <PageAngle  0.0>
+ <TextRect 
+  <ID 4>
+  <Unique 51>
+  <Pen 15>
+  <Fill 15>
+  <PenWidth  1.0 pt>
+  <Separation 0>
+  <ObColor `Schwarz'>
+  <DashedPattern 
+   <DashedStyle Solid>
+  > # end of DashedPattern
+  <RunaroundGap  0.0 pt>
+  <RunaroundType None>
+  <ShapeRect  2.54 cm 1.27 cm 15.92 cm 0.35278 cm>
+  <BRect  2.54 cm 1.27 cm 15.92 cm 0.35278 cm>
+  <TRNumColumns 1>
+  <TRColumnGap  0.0 cm>
+  <TRColumnBalance No>
+  <TRSideheadWidth  3.0 cm>
+  <TRSideheadGap  0.5 cm>
+  <TRSideheadPlacement Left>
+  <TRNext 0>
+ > # end of TextRect
+ <TextRect 
+  <ID 5>
+  <Unique 52>
+  <ShapeRect  2.54 cm 28.19481 cm 15.92 cm 0.35278 cm>
+  <BRect  2.54 cm 28.19481 cm 15.92 cm 0.35278 cm>
+  <TRNumColumns 1>
+  <TRColumnGap  0.0 cm>
+  <TRColumnBalance No>
+  <TRSideheadWidth  3.0 cm>
+  <TRSideheadGap  0.5 cm>
+  <TRSideheadPlacement Left>
+  <TRNext 0>
+ > # end of TextRect
+ <TextRect 
+  <ID 6>
+  <Unique 53>
+  <ShapeRect  2.54 cm 2.54 cm 15.92 cm 24.62 cm>
+  <BRect  2.54 cm 2.54 cm 15.92 cm 24.62 cm>
+  <TRNumColumns 1>
+  <TRColumnGap  0.0 cm>
+  <TRColumnBalance No>
+  <TRSideheadWidth  3.0 cm>
+  <TRSideheadGap  0.5 cm>
+  <TRSideheadPlacement Left>
+  <TRNext 0>
+ > # end of TextRect
+> # end of Page
+<Page 
+ <Unique 22>
+ <PageType ReferencePage>
+ <PageTag `Referenz'>
+ <PageSize  21.0 cm 29.7 cm>
+ <PageOrientation Portrait>
+ <PageAngle  0.0>
+ <TextLine 
+  <Unique 24>
+  <Separation 0>
+  <ObColor `Schwarz'>
+  <DashedPattern 
+   <DashedStyle Solid>
+  > # end of DashedPattern
+  <RunaroundGap  0.0 pt>
+  <RunaroundType None>
+  <TLOrigin  2.54 cm 1.163 cm>
+  <TLAlignment Left>
+  <Font 
+   <FTag `'>
+   <FFamily `Helvetica'>
+   <FVar `Regular'>
+   <FWeight `Bold'>
+   <FAngle `Regular'>
+   <FPostScriptName `Helvetica-Bold'>
+   <FEncoding `FrameRoman'>
+   <FSize  12.0 pt>
+   <FUnderlining FNoUnderlining>
+   <FOverline No>
+   <FStrike No>
+   <FChangeBar No>
+   <FOutline No>
+   <FShadow No>
+   <FPairKern No>
+   <FTsume No>
+   <FCase FAsTyped>
+   <FPosition FNormal>
+   <FDX  0.0%>
+   <FDY  0.0%>
+   <FDW  0.0%>
+   <FStretch  100.0%>
+   <FLanguage German>
+   <FLocked No>
+   <FSeparation 0>
+   <FColor `Schwarz'>
+  > # end of Font
+  <String `Fu\xa7 note'>
+ > # end of TextLine
+ <TextLine 
+  <Unique 25>
+  <TLOrigin  2.54 cm 4.352 cm>
+  <TLAlignment Left>
+  <String `Einzelne Zeile'>
+ > # end of TextLine
+ <Frame 
+  <Unique 26>
+  <Pen 15>
+  <Fill 15>
+  <PenWidth  1.0 pt>
+  <Angle  360.0>
+  <ShapeRect  2.54 cm 1.37583 cm 6.35 cm 0.52917 cm>
+  <BRect  2.54 cm 1.37583 cm 6.35 cm 0.52917 cm>
+  <FrameType NotAnchored>
+  <Tag `Fu\xa7 note'>
+  <PolyLine 
+   <Unique 37>
+   <Pen 0>
+   <PenWidth  0.5 pt>
+   <HeadCap Square>
+   <TailCap Square>
+   <NumPoints 2>
+   <Point  0.3175 cm 0.07056 cm>
+   <Point  5.3975 cm 0.07056 cm>
+  > # end of PolyLine
+ > # end of Frame
+ <TextLine 
+  <Unique 38>
+  <TLOrigin  2.54 cm 6.257 cm>
+  <TLAlignment Left>
+  <String `Doppelte Zeile'>
+ > # end of TextLine
+ <Frame 
+  <Unique 39>
+  <Pen 15>
+  <PenWidth  1.0 pt>
+  <Angle  360.0>
+  <ShapeRect  2.54 cm 6.56167 cm 16.51 cm 0.42333 cm>
+  <BRect  2.54 cm 6.56167 cm 16.51 cm 0.42333 cm>
+  <FrameType NotAnchored>
+  <Tag `Doppelte Zeile'>
+  <PolyLine 
+   <Unique 40>
+   <Pen 0>
+   <NumPoints 2>
+   <Point  0.0 cm 0.03528 cm>
+   <Point  16.51 cm 0.03528 cm>
+  > # end of PolyLine
+  <PolyLine 
+   <Unique 41>
+   <NumPoints 2>
+   <Point  0.0 cm 0.14111 cm>
+   <Point  16.51 cm 0.14111 cm>
+  > # end of PolyLine
+ > # end of Frame
+ <Frame 
+  <Unique 42>
+  <Pen 15>
+  <Angle  360.0>
+  <ShapeRect  2.54 cm 4.72722 cm 16.51 cm 0.35278 cm>
+  <BRect  2.54 cm 4.72722 cm 16.51 cm 0.35278 cm>
+  <FrameType NotAnchored>
+  <Tag `Einzelne Zeile'>
+  <PolyLine 
+   <Unique 43>
+   <Pen 0>
+   <NumPoints 2>
+   <Point  0.0 cm 0.03528 cm>
+   <Point  16.51 cm 0.03528 cm>
+  > # end of PolyLine
+ > # end of Frame
+ <Frame 
+  <Unique 44>
+  <Pen 15>
+  <Angle  360.0>
+  <ShapeRect  2.54 cm 3.175 cm 6.35 cm 0.21167 cm>
+  <BRect  2.54 cm 3.175 cm 6.35 cm 0.21167 cm>
+  <FrameType NotAnchored>
+  <Tag `TabelleFu\xa7 note'>
+ > # end of Frame
+ <TextLine 
+  <Unique 45>
+  <TLOrigin  2.483 cm 2.848 cm>
+  <TLAlignment Left>
+  <String `Tabellenfu\xa7 note'>
+ > # end of TextLine
+> # end of Page
+<Page 
+ <Unique 29>
+ <PageType ReferencePage>
+ <PageTag `IVZ'>
+ <PageSize  21.0 cm 29.7 cm>
+ <PageOrientation Portrait>
+ <PageAngle  0.0>
+ <TextRect 
+  <ID 7>
+  <Unique 50>
+  <Pen 15>
+  <Fill 15>
+  <PenWidth  1.0 pt>
+  <Separation 0>
+  <ObColor `Schwarz'>
+  <DashedPattern 
+   <DashedStyle Solid>
+  > # end of DashedPattern
+  <RunaroundGap  0.0 pt>
+  <RunaroundType None>
+  <ShapeRect  2.54 cm 2.54 cm 15.92 cm 24.62 cm>
+  <BRect  2.54 cm 2.54 cm 15.92 cm 24.62 cm>
+  <TRNumColumns 1>
+  <TRColumnGap  0.0 cm>
+  <TRColumnBalance No>
+  <TRSideheadWidth  3.0 cm>
+  <TRSideheadGap  0.5 cm>
+  <TRSideheadPlacement Left>
+  <TRNext 0>
+ > # end of TextRect
+> # end of Page
+<Page 
+ <Unique 30>
+ <PageType BodyPage>
+ <PageNum `2'>
+ <PageTag `'>
+ <PageSize  21.0 cm 29.7 cm>
+ <PageOrientation Portrait>
+ <PageAngle  0.0>
+ <PageBackground `Default'>
+ <TextRect 
+  <ID 8>
+  <Unique 49>
+  <Pen 15>
+  <Fill 15>
+  <PenWidth  1.0 pt>
+  <Separation 0>
+  <ObColor `Schwarz'>
+  <DashedPattern 
+   <DashedStyle Solid>
+  > # end of DashedPattern
+  <RunaroundGap  0.0 pt>
+  <RunaroundType None>
+  <ShapeRect  2.54 cm 2.54 cm 15.92 cm 24.62 cm>
+  <BRect  2.54 cm 2.54 cm 15.92 cm 24.62 cm>
+  <TRNumColumns 1>
+  <TRColumnGap  0.0 cm>
+  <TRColumnBalance No>
+  <TRSideheadWidth  3.0 cm>
+  <TRSideheadGap  0.5 cm>
+  <TRSideheadPlacement Left>
+  <TRNext 0>
+ > # end of TextRect
+> # end of Page
+<TextFlow 
+ <TFTag `A'>
+ <TFAutoConnect Yes>
+ <Notes 
+ > # end of Notes
+ <Para 
+  <Unique 6>
+  <Pgf 
+   <PgfTag `Haupttext'>
+   <PgfUseNextTag No>
+   <PgfNextTag `'>
+   <PgfAlignment LeftRight>
+   <PgfFIndent  0.0 cm>
+   <PgfLIndent  0.0 cm>
+   <PgfRIndent  0.0 cm>
+   <PgfFIndentRelative No>
+   <PgfFIndentOffset  0.0 cm>
+   <PgfTopSeparator `'>
+   <PgfTopSepAtIndent No>
+   <PgfTopSepOffset  0.0 cm>
+   <PgfBotSeparator `'>
+   <PgfBotSepAtIndent No>
+   <PgfBotSepOffset  0.0 cm>
+   <PgfPlacement Anywhere>
+   <PgfPlacementStyle Normal>
+   <PgfRunInDefaultPunct `. '>
+   <PgfSpBefore  0.0 pt>
+   <PgfSpAfter  0.0 pt>
+   <PgfWithPrev No>
+   <PgfWithNext No>
+   <PgfBlockSize 1>
+   <PgfFont 
+    <FTag `'>
+    <FFamily `Times'>
+    <FVar `Regular'>
+    <FWeight `Regular'>
+    <FAngle `Regular'>
+    <FPostScriptName `Times-Roman'>
+    <FEncoding `FrameRoman'>
+    <FSize  12.0 pt>
+    <FUnderlining FNoUnderlining>
+    <FOverline No>
+    <FStrike No>
+    <FChangeBar No>
+    <FOutline No>
+    <FShadow No>
+    <FPairKern No>
+    <FTsume No>
+    <FCase FAsTyped>
+    <FPosition FNormal>
+    <FDX  0.0%>
+    <FDY  0.0%>
+    <FDW  0.0%>
+    <FStretch  100.0%>
+    <FLanguage German>
+    <FLocked No>
+    <FSeparation 0>
+    <FColor `Schwarz'>
+   > # end of PgfFont
+   <PgfLineSpacing Fixed>
+   <PgfLeading  2.0 pt>
+   <PgfAutoNum No>
+   <PgfNumTabs 0>
+   <PgfHyphenate Yes>
+   <HyphenMaxLines 2>
+   <HyphenMinPrefix 2>
+   <HyphenMinSuffix 2>
+   <HyphenMinWord 5>
+   <PgfLetterSpace No>
+   <PgfMinWordSpace 75>
+   <PgfOptWordSpace 100>
+   <PgfMaxWordSpace 125>
+   <PgfMinJRomanLetterSpace 0>
+   <PgfOptJRomanLetterSpace 25>
+   <PgfMaxJRomanLetterSpace 50>
+   <PgfMinJLetterSpace 0>
+   <PgfOptJLetterSpace 0>
+   <PgfMaxJLetterSpace 10>
+   <PgfYakumonoType Floating>
+   <PgfLanguage German>
+   <PgfCellAlignment Top>
+   <PgfCellMargins  0.0 pt 0.0 pt 0.0 pt 0.0 pt>
+   <PgfCellLMarginFixed No>
+   <PgfCellTMarginFixed No>
+   <PgfCellRMarginFixed No>
+   <PgfCellBMarginFixed No>
+   <PgfLocked No>
+  > # end of Pgf
+  <ParaLine 
+   <TextRectID 3>
+  > # end of ParaLine
+ > # end of Para
+> # end of TextFlow
+<TextFlow 
+ <TFTag `IVZ'>
+ <TFAutoConnect Yes>
+ <Notes 
+ > # end of Notes
+ <Para 
+  <Unique 20>
+  <PgfTag `\x86 berschriftIVZIVZ'>
+  <ParaLine 
+   <TextRectID 7>
+   <String `<$paratext\> <$pagenum\>'>
+  > # end of ParaLine
+ > # end of Para
+ <Para 
+  <Unique 19>
+  <PgfTag `\x86 berschrift2IVZIVZ'>
+  <ParaLine 
+   <String `<$paratext\> <$pagenum\>'>
+  > # end of ParaLine
+ > # end of Para
+ <Para 
+  <Unique 18>
+  <PgfTag `\x86 berschrift1IVZIVZ'>
+  <ParaLine 
+   <String `<$paratext\> <$pagenum\>'>
+  > # end of ParaLine
+ > # end of Para
+ <Para 
+  <Unique 17>
+  <PgfTag `Anh_\x86 IVZIVZ'>
+  <ParaLine 
+   <String `<$paratext\> <$pagenum\>'>
+  > # end of ParaLine
+ > # end of Para
+ <Para 
+  <Unique 16>
+  <PgfTag `Anh_\x86 1IVZIVZ'>
+  <ParaLine 
+   <String `<$paratext\> <$pagenum\>'>
+  > # end of ParaLine
+ > # end of Para
+ <Para 
+  <Unique 9>
+  <PgfTag `Anh_\x86 1IVZ'>
+  <ParaLine 
+   <String `<$paratext\> <$pagenum\>'>
+  > # end of ParaLine
+ > # end of Para
+ <Para 
+  <Unique 8>
+  <PgfTag `Anh_\x86 IVZ'>
+  <ParaLine 
+   <String `<$paratext\> <$pagenum\>'>
+  > # end of ParaLine
+ > # end of Para
+ <Para 
+  <Unique 7>
+  <PgfTag `Haupttext'>
+  <ParaLine 
+  > # end of ParaLine
+ > # end of Para
+> # end of TextFlow
+<TextFlow 
+ <Notes 
+ > # end of Notes
+ <Para 
+  <Unique 10>
+  <Pgf 
+   <PgfTag `Fu\xa7 zeile'>
+   <PgfAlignment LeftRight>
+   <PgfFont 
+    <FTag `'>
+    <FFamily `Times'>
+    <FVar `Regular'>
+    <FWeight `Regular'>
+    <FAngle `Regular'>
+    <FPostScriptName `Times-Roman'>
+    <FEncoding `FrameRoman'>
+    <FSize  10.0 pt>
+    <FUnderlining FNoUnderlining>
+    <FOverline No>
+    <FStrike No>
+    <FChangeBar No>
+    <FOutline No>
+    <FShadow No>
+    <FPairKern No>
+    <FTsume No>
+    <FCase FAsTyped>
+    <FPosition FNormal>
+    <FDX  0.0%>
+    <FDY  0.0%>
+    <FDW  0.0%>
+    <FStretch  100.0%>
+    <FLanguage German>
+    <FLocked No>
+    <FSeparation 0>
+    <FColor `Schwarz'>
+   > # end of PgfFont
+   <PgfNumTabs 2>
+   <TabStop 
+    <TSX  7.96 cm>
+    <TSType Center>
+    <TSLeaderStr ` '>
+   > # end of TabStop
+   <TabStop 
+    <TSX  15.92 cm>
+    <TSType Right>
+    <TSLeaderStr ` '>
+   > # end of TabStop
+   <HyphenMinPrefix 2>
+   <HyphenMinSuffix 2>
+   <PgfMinWordSpace 75>
+   <PgfMaxWordSpace 125>
+  > # end of Pgf
+  <ParaLine 
+   <TextRectID 2>
+  > # end of ParaLine
+ > # end of Para
+> # end of TextFlow
+<TextFlow 
+ <Notes 
+ > # end of Notes
+ <Para 
+  <Unique 11>
+  <Pgf 
+   <PgfTag `Kopfzeile'>
+  > # end of Pgf
+  <ParaLine 
+   <TextRectID 1>
+  > # end of ParaLine
+ > # end of Para
+> # end of TextFlow
+<TextFlow 
+ <TFTag `A'>
+ <TFAutoConnect Yes>
+ <Notes 
+ > # end of Notes
+ <Para 
+  <Unique 12>
+  <PgfTag `Haupttext'>
+  <Pgf 
+   <PgfAlignment LeftRight>
+   <PgfFont 
+    <FTag `'>
+    <FFamily `Times'>
+    <FVar `Regular'>
+    <FWeight `Regular'>
+    <FAngle `Regular'>
+    <FPostScriptName `Times-Roman'>
+    <FEncoding `FrameRoman'>
+    <FSize  12.0 pt>
+    <FUnderlining FNoUnderlining>
+    <FOverline No>
+    <FStrike No>
+    <FChangeBar No>
+    <FOutline No>
+    <FShadow No>
+    <FPairKern No>
+    <FTsume No>
+    <FCase FAsTyped>
+    <FPosition FNormal>
+    <FDX  0.0%>
+    <FDY  0.0%>
+    <FDW  0.0%>
+    <FStretch  100.0%>
+    <FLanguage German>
+    <FLocked No>
+    <FSeparation 0>
+    <FColor `Schwarz'>
+   > # end of PgfFont
+   <HyphenMinPrefix 2>
+   <HyphenMinSuffix 2>
+   <PgfMinWordSpace 75>
+   <PgfMaxWordSpace 125>
+  > # end of Pgf
+  <ParaLine 
+   <TextRectID 8>
+   <String `Das ist ein Tika Test'>
+  > # end of ParaLine
+ > # end of Para
+> # end of TextFlow
+<TextFlow 
+ <Notes 
+ > # end of Notes
+ <Para 
+  <Unique 13>
+  <PgfTag `Haupttext'>
+  <Pgf 
+   <PgfAlignment LeftRight>
+   <PgfNumTabs 2>
+   <TabStop 
+    <TSX  7.96 cm>
+    <TSType Center>
+    <TSLeaderStr ` '>
+   > # end of TabStop
+   <TabStop 
+    <TSX  15.92 cm>
+    <TSType Right>
+    <TSLeaderStr ` '>
+   > # end of TabStop
+   <PgfLetterSpace Yes>
+  > # end of Pgf
+  <ParaLine 
+   <TextRectID 4>
+  > # end of ParaLine
+ > # end of Para
+> # end of TextFlow
+<TextFlow 
+ <Notes 
+ > # end of Notes
+ <Para 
+  <Unique 14>
+  <PgfTag `Haupttext'>
+  <Pgf 
+   <PgfAlignment LeftRight>
+   <PgfNumTabs 2>
+   <TabStop 
+    <TSX  7.96 cm>
+    <TSType Center>
+    <TSLeaderStr ` '>
+   > # end of TabStop
+   <TabStop 
+    <TSX  15.92 cm>
+    <TSType Right>
+    <TSLeaderStr ` '>
+   > # end of TabStop
+   <PgfLetterSpace Yes>
+  > # end of Pgf
+  <ParaLine 
+   <TextRectID 5>
+  > # end of ParaLine
+ > # end of Para
+> # end of TextFlow
+<TextFlow 
+ <TFTag `A'>
+ <TFAutoConnect Yes>
+ <Notes 
+ > # end of Notes
+ <Para 
+  <Unique 15>
+  <PgfTag `Haupttext'>
+  <Pgf 
+   <PgfLetterSpace Yes>
+  > # end of Pgf
+  <ParaLine 
+   <TextRectID 6>
+  > # end of ParaLine
+ > # end of Para
+> # end of TextFlow
+# End of MIFFile

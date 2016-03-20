@@ -89,6 +89,30 @@ public class TikaCLITest {
         //Assert was commented temporarily for finding the problem
         //		Assert.assertTrue(outContent != null && outContent.toString("UTF-8").contains("org.apache.tika.parser.iwork.IWorkPackageParser"));
     }
+    @Test
+    public void testFrameMakerParser() throws Exception{
+    	
+    	String expected_string = "application/vnd.mif\r\napplication/vnd.mif\r\napplication/vnd.mif\r\n";
+    	
+        String[] params = {"--detect", resourcePrefix + "test.doc"};
+        TikaCLI.main(params);
+        assertTrue(outContent.toString(), outContent != null ) ;
+
+        params[1] = resourcePrefix + "test.mif";
+        TikaCLI.main(params);
+        assertTrue(outContent.toString(), outContent != null ) ;
+ 
+        params[1] = resourcePrefix + "test.fm";
+        TikaCLI.main(params);
+        assertTrue(outContent.toString(), outContent != null ) ;
+        String result_string = outContent.toString("UTF-8");
+
+        assertTrue("should : \r\n" + expected_string + " " , 
+        		result_string.equals(expected_string ) 
+        		);
+        		
+        
+    }
 
     /**
      * Tests -x option of the cli
@@ -98,6 +122,7 @@ public class TikaCLITest {
     @Test
     public void testXMLOutput() throws Exception{
         String[] params = {"-x", resourcePrefix + "alice.cli.test"};
+        System.out.println("Before " + params[1]);
         TikaCLI.main(params);
         assertTrue(outContent.toString(UTF_8.name()).contains("?xml version=\"1.0\" encoding=\"UTF-8\"?"));
 
